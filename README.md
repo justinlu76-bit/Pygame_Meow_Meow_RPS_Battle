@@ -1,8 +1,8 @@
-🐱 Meow Meow RPS Battle
+#🐱 Meow Meow RPS Battle
 
-貓咪剪刀石頭布大戰 | Cat Rock Paper Scissors Battle
+#貓咪剪刀石頭布大戰 | Cat Rock Paper Scissors Battle
 
-📖 專案介紹 | Project Introduction
+##📖 專案介紹 | Project Introduction
 
 
 《貓咪剪刀石頭布大戰》是一款使用 Python 與 Pygame 開發的互動式小遊戲。
@@ -18,7 +18,7 @@ Players can choose rock, paper, or scissors using their mouse and compete agains
 
 This project focuses on practicing Python programming logic, conditional statements, random selection, graphical interface design, and mouse event handling.
 
-🎮 遊戲玩法 | How to Play
+##🎮 遊戲玩法 | How to Play
 
 
 啟動遊戲，進入貓咪剪刀石頭布對戰畫面。
